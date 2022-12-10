@@ -1,0 +1,22 @@
+$ cd /
+$ ls
+dir fchrtcbh
+dir hlnbrj
+dir jbt
+dir nnn
+57400 pfqcbp
+dir qsdv
+dir tdl
+dir tmcpgtz
+$ cd fchrtcbh
+$ ls
+dir fct
+dir fwttfps
+61765 nlr
+28736 pfqcbp.pfg
+224426 qcmtlbss
+145764 sgpmfdlt.tnd
+273765 wzmrclw.qbq
+$ cd fct
+$ ls
+dir ctzphlhl
