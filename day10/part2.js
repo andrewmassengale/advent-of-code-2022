@@ -14,9 +14,9 @@ const addCycleNum = () => {
 	const curCrtIdx = signal.length - 1;
 	const curCrtPos = signal[curCrtIdx].length + 1;
 	if ([ x, x + 1, x + 2 ].indexOf(curCrtPos) !== -1) {
-		signal[curCrtIdx] += '#';
+		signal[curCrtIdx] += '█';
 	} else {
-		signal[curCrtIdx] += '.';
+		signal[curCrtIdx] += ' ';
 	}
 	if (keyCycles.indexOf(cycleNum) !== -1) {
 		signal.push('');
