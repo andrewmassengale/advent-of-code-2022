@@ -13,7 +13,6 @@ const addCycleNum = () => {
 	cycleNum += 1;
 	const curCrtIdx = signal.length - 1;
 	const curCrtPos = signal[curCrtIdx].length + 1;
-	// console.log({ x, curCrtPos });
 	if ([ x, x + 1, x + 2 ].indexOf(curCrtPos) !== -1) {
 		signal[curCrtIdx] += '#';
 	} else {
